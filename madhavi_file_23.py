@@ -1,2 +1,4 @@
-print("Hello World")
-print("This is Madhavi")
+a=5
+b=10
+c=a+b
+print("Addition:",c)
