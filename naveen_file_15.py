@@ -1,7 +1,2 @@
-# A Funny Conversation Between Two Friends
-
-def main():
-    print("=" * 50)
-    print("        THE MOST INTELLIGENT CONVERSATION")
-    print("=" * 50)
-    print()
+user = int(input("Enter the number: "))
+print("The square of the number is: ", user**2)
